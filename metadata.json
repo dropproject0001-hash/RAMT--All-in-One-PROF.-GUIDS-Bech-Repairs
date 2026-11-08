@@ -1,0 +1,6 @@
+{
+  "name": "RAMT ECU Bench-Repair Assistant",
+  "description": "Ruben Automotive Modern Tech - OEM ECU pinouts, DTC lookup, PCB component readings, board repair schematics, and bench simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
